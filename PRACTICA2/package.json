@@ -1,0 +1,21 @@
+{
+  "name": "practica-2",
+  "version": "1.0.0",
+  "description": "practica 2 para web iii",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Aracely Rcoa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.4"
+  }
+}
